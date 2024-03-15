@@ -1,0 +1,2 @@
+<?php if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
+$environment_variable = '{"theme":{"folder_name":"astra","mapped_name":""},"child_theme":{"folder_name":"astra-child","mapped_name":""},"allowed_paths":["C:\/xampp\/htdocs\/curso-wordpress\/wp-content\/themes"],"cache_path":"C:\/xampp\/htdocs\/curso-wordpress\/wp-content\/cache\/wph\/","wordpress_directory":"","site_relative_path":"\/curso-wordpress\/"}'; ?>

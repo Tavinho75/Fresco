@@ -1,0 +1,127 @@
+# Translation of Plugins - Ultimate Blocks &#8211; WordPress Blocks Plugin - Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - Ultimate Blocks &#8211; WordPress Blocks Plugin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-06-30 22:05:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - Ultimate Blocks &#8211; WordPress Blocks Plugin - Stable (latest release)\n"
+
+#: admin/templates/help/help-page.php:70
+msgid "Join Our Facebook Group!"
+msgstr "Junte-se ao nosso grupo do Facebook »"
+
+#: admin/templates/help/help-page.php:64
+msgid "Follow Us On Twitter!"
+msgstr "Siga-nos no Twitter!"
+
+#: admin/templates/help/help-page.php:60
+msgid "For upcoming plugins updates, news, tips and tutorials on Gutenberg in general you can stay connected with us."
+msgstr "Para futuras atualizações de plugins, notícias, dicas e tutoriais sobre Gutenberg em geral, você pode ficar conectado com a gente."
+
+#: admin/templates/help/help-page.php:59
+msgid "Stay Connected with Us!"
+msgstr "Fique conectado com a gente!"
+
+#: src/blocks/countdown/block.php:76 src/blocks/countdown/block.php:113
+#: dist/blocks.build.js:1
+msgid "Seconds"
+msgstr "Segundos"
+
+#: src/blocks/countdown/block.php:75 src/blocks/countdown/block.php:112
+#: dist/blocks.build.js:1
+msgid "Minutes"
+msgstr "Minutos"
+
+#: src/blocks/countdown/block.php:74 src/blocks/countdown/block.php:111
+#: dist/blocks.build.js:1
+msgid "Hours"
+msgstr "Horas"
+
+#: src/blocks/countdown/block.php:73 src/blocks/countdown/block.php:110
+#: dist/blocks.build.js:1
+msgid "Days"
+msgstr "Dias"
+
+#: src/blocks/countdown/block.php:72 src/blocks/countdown/block.php:109
+msgid "Weeks"
+msgstr "Semanas"
+
+#: src/blocks/countdown/block.php:47
+msgid "seconds"
+msgstr "segundos"
+
+#: src/blocks/countdown/block.php:46
+msgid "minutes"
+msgstr "minutos"
+
+#: src/blocks/countdown/block.php:45
+msgid "hours"
+msgstr "horas"
+
+#: src/blocks/countdown/block.php:44
+msgid "days"
+msgstr "dias"
+
+#: src/blocks/countdown/block.php:43
+msgid "weeks"
+msgstr "semanas"
+
+#: includes/pro_manager/extensions/Table_Of_Contents_Extension.php:64
+#: dist/blocks.build.js:1
+msgid "Additional Settings"
+msgstr "Configurações adicionais"
+
+#. Description of the plugin
+msgid "Custom Blocks for Bloggers and Marketers. Create Better Content With Gutenberg."
+msgstr "Blocos personalizados para blogueiros e comerciantes. Crie um conteúdo melhor com o Gutenberg."
+
+#: includes/pro_manager/extensions/Tabbed_Content_Extension.php:33
+#: includes/pro_manager/extensions/Tabbed_Content_Extension.php:80
+msgid "Call to Action"
+msgstr "Chamada para Ação"
+
+#: src/blocks/table-of-contents/block.php:109
+#: src/blocks/table-of-contents/block.php:121 dist/blocks.build.js:1
+msgid "show"
+msgstr "mostrar"
+
+#: src/blocks/table-of-contents/block.php:109
+#: src/blocks/table-of-contents/block.php:120 dist/blocks.build.js:1
+msgid "hide"
+msgstr "ocultar"
+
+#: src/blocks/click-to-tweet/block.php:56 dist/blocks.build.js:1
+msgid "Click to Tweet"
+msgstr "Clique para Tweetar"
+
+#: admin/templates/help/help-page.php:29
+msgid "More in the making..."
+msgstr "Mais no fazer..."
+
+#: admin/templates/help/help-page.php:18
+msgid "Welcome to Ultimate Blocks!"
+msgstr "Boas-vindas ao Ultimate Blocks!"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://ultimateblocks.com/"
+msgstr "https://ultimateblocks.com/"
+
+#: admin/templates/help/help-page.php:39
+msgid "Learn More"
+msgstr "Saiba mais"
+
+#: admin/templates/help/help-page.php:33
+msgid "Manage the Blocks"
+msgstr "Gerencie os blocos"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: includes/class-ultimate-blocks-category.php:64 dist/blocks.build.js:1
+msgid "Ultimate Blocks"
+msgstr "Ultimate Blocks"

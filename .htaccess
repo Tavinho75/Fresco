@@ -1,0 +1,26 @@
+# BEGIN WP Hide & Security Enhancer
+<IfModule mod_rewrite.c> 
+RewriteEngine On 
+RewriteBase /curso-wordpress/ 
+#WriteCheckString:1709239727_38585
+RewriteRule ^rewrite_test_1709239727_38585/? /curso-wordpress/wp-content/plugins/wp-hide-security-enhancer/include/rewrite-confirm.php [L,QSA]
+RewriteRule ^rewrite_test_static_file_1709239727_38585/? /curso-wordpress/wp-content/plugins/wp-hide-security-enhancer/composer.json [L,QSA]
+</IfModule> 
+
+# END WP Hide & Security Enhancer
+
+# BEGIN WordPress
+# As diretrizes (linhas) entre "BEGIN WordPress" e "END WordPress" são
+# geradas dinamicamente e só devem ser modificadas através de filtros do WordPress.
+# Quaisquer alterações nas diretivas entre esses marcadores serão sobrescritas.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /curso-wordpress/
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /curso-wordpress/index.php [L]
+</IfModule>
+
+# END WordPress

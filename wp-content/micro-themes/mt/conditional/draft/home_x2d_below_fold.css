@@ -1,0 +1,120 @@
+
+/*= Home - below fold ========= */
+
+/** Home - below fold >> Barra Rodapé **/
+#colophon .ast-builder-grid-row-tablet-full {
+	padding-top: 5px !important;
+	padding-bottom: 5px !important;
+}
+
+
+/*( < 768 )*/
+@media (max-width: 767.98px) {
+	/** Home - below fold >> Uagb ifb desc **/
+	#wp-block-themeisle-blocks-advanced-column-d83ccb40 .uagb-ifb-desc {
+	line-height: 30px !important;
+}
+
+	/** Home - below fold >> Uagb rm content **/
+	.wp-block-uagb-restaurant-menu > div:nth-of-type(1) > .uagb-rm__content {
+	text-align: center !important;
+}
+
+	/** Home - below fold >> Heading 3 +1 Mais **/
+	.wp-block-uagb-restaurant-menu > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h3, 
+.wp-block-uagb-restaurant-menu > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div {
+	text-align: center !important;
+}
+
+	/** Home - below fold >> Uagb rm content +5 Mais **/
+	.wp-block-uagb-restaurant-menu > div:nth-of-type(2) > .uagb-rm__content, 
+.wp-block-uagb-restaurant-menu > div:nth-of-type(2) > div:nth-of-type(1) > img, 
+.wp-block-uagb-restaurant-menu > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > h3, 
+.wp-block-uagb-restaurant-menu > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div, 
+.wp-block-uagb-restaurant-menu > div:nth-of-type(2) > .uagb-rm__content, 
+.wp-block-uagb-restaurant-menu > div:nth-of-type(2) > div:nth-of-type(1) > span {
+	text-align: center !important;
+}
+
+	/** Home - below fold >> Uagb rm content _3 **/
+	.wp-block-uagb-restaurant-menu > div:nth-of-type(3) > .uagb-rm__content {
+	text-align: center !important;
+}
+
+	/** Home - below fold >> Span +7 Mais **/
+	.wp-block-uagb-restaurant-menu > div:nth-of-type(3) > div:nth-of-type(1) > span, 
+.wp-block-uagb-restaurant-menu > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div, 
+.wp-block-uagb-restaurant-menu > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > h3, 
+.wp-block-uagb-restaurant-menu > div:nth-of-type(3) > div:nth-of-type(1) > img, 
+.wp-block-uagb-restaurant-menu > div:nth-of-type(4) > div:nth-of-type(1) > img, 
+.wp-block-uagb-restaurant-menu > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > h3, 
+.wp-block-uagb-restaurant-menu > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > div, 
+.wp-block-uagb-restaurant-menu > div:nth-of-type(4) > div:nth-of-type(1) > span {
+	text-align: center !important;
+}
+
+	/** Home - below fold >> Uagb rm content _2 **/
+	.wp-block-uagb-restaurant-menu > div:nth-of-type(4) > .uagb-rm__content {
+	text-align: center !important;
+}
+
+}
+
+
+/*( < 480 )*/
+@media (max-width: 479.98px) {
+	/** Home - below fold >> Uagb ifb desc **/
+	#wp-block-themeisle-blocks-advanced-column-d83ccb40 .uagb-ifb-desc {
+	line-height: 30px !important;
+}
+
+	/** Home - below fold >> Uagb rm content **/
+	.wp-block-uagb-restaurant-menu > div:nth-of-type(1) > .uagb-rm__content {
+	text-align: center !important;
+}
+
+	/** Home - below fold >> Heading 3 +1 Mais **/
+	.wp-block-uagb-restaurant-menu > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h3, 
+.wp-block-uagb-restaurant-menu > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div {
+	text-align: center !important;
+}
+
+	/** Home - below fold >> Uagb rm content +5 Mais **/
+	.wp-block-uagb-restaurant-menu > div:nth-of-type(2) > .uagb-rm__content, 
+.wp-block-uagb-restaurant-menu > div:nth-of-type(2) > div:nth-of-type(1) > img, 
+.wp-block-uagb-restaurant-menu > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > h3, 
+.wp-block-uagb-restaurant-menu > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div, 
+.wp-block-uagb-restaurant-menu > div:nth-of-type(2) > .uagb-rm__content, 
+.wp-block-uagb-restaurant-menu > div:nth-of-type(2) > div:nth-of-type(1) > span {
+	text-align: center !important;
+}
+
+	/** Home - below fold >> Uagb rm content _3 **/
+	.wp-block-uagb-restaurant-menu > div:nth-of-type(3) > .uagb-rm__content {
+	text-align: center !important;
+}
+
+	/** Home - below fold >> Span +7 Mais **/
+	.wp-block-uagb-restaurant-menu > div:nth-of-type(3) > div:nth-of-type(1) > span, 
+.wp-block-uagb-restaurant-menu > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div, 
+.wp-block-uagb-restaurant-menu > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > h3, 
+.wp-block-uagb-restaurant-menu > div:nth-of-type(3) > div:nth-of-type(1) > img, 
+.wp-block-uagb-restaurant-menu > div:nth-of-type(4) > div:nth-of-type(1) > img, 
+.wp-block-uagb-restaurant-menu > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > h3, 
+.wp-block-uagb-restaurant-menu > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > div, 
+.wp-block-uagb-restaurant-menu > div:nth-of-type(4) > div:nth-of-type(1) > span {
+	text-align: center !important;
+}
+
+	/** Home - below fold >> Uagb rm content _2 **/
+	.wp-block-uagb-restaurant-menu > div:nth-of-type(4) > .uagb-rm__content {
+	text-align: center !important;
+}
+
+	/** Home - below fold >> Happy Hour img **/
+	#wp-block-themeisle-blocks-advanced-column-578f2f75 .wp-image-187 {
+	text-align: center !important;
+}
+
+}
+
